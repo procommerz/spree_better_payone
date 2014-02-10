@@ -1,4 +1,4 @@
-# Payone
+# spree_better_payone
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'payone'
+    gem 'spree_better_payone', git: 'https://github.com/procommerz/spree_better_payone'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install payone
+    $ gem install spree_better_payone
 
 ## Usage
 
